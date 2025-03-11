@@ -17,7 +17,7 @@ include '.includes/header.php';
                             <input type="text" class="form-control" name="post_title" required>
                         </div>
                         <!-- Input untuk mengunggah gambar -->
-                        <div class="mb-3"> f
+                        <div class="mb-3">
                             <label for="formFile" class="form-label">Unggah Gambar</label>
                             <input class="form-control" type="file" name="image" accept="image/*" />
                         </div>
